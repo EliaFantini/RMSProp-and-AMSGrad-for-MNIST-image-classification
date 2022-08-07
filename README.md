@@ -73,7 +73,7 @@ python main.py
 
 - **Answers.pdf**: pdf with the answers and plots to the assignment of the course
 
-- **Exercise instructions.py**: pdf with the questions of the assignment of the course
+- **Exercise instructions.pdf**: pdf with the questions of the assignment of the course
 
 ## 🛠 Skills
 Python, Pytorch, Matplotlib. Machine learning, artificial neural networks, multilayer perceptron (MLP), implementation of optimization methods.
